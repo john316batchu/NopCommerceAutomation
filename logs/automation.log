@@ -1,0 +1,37 @@
+09:54:46.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:54:46.773 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:54:46.790 [main] INFO  testCases.TC003_LoginTestDDT - ***Starting TC003_LoginTestDDT***
+09:54:46.790 [main] DEBUG testCases.TC003_LoginTestDDT - Application logs
+09:54:46.791 [main] INFO  testCases.TC003_LoginTestDDT - Clicking on login link
+09:54:48.402 [main] INFO  testCases.TC003_LoginTestDDT - Entering Email
+09:54:48.597 [main] INFO  testCases.TC003_LoginTestDDT - Entering password
+09:54:48.724 [main] INFO  testCases.TC003_LoginTestDDT - clicking login button
+09:54:49.226 [main] INFO  testCases.TC003_LoginTestDDT - Validating MyAccount link
+09:54:59.413 [main] ERROR testCases.TC003_LoginTestDDT - Login unsuccessful on valid data...Test case failed
+09:54:59.558 [main] INFO  testCases.TC003_LoginTestDDT - ***Starting TC003_LoginTestDDT***
+09:54:59.558 [main] DEBUG testCases.TC003_LoginTestDDT - Application logs
+09:54:59.560 [main] INFO  testCases.TC003_LoginTestDDT - Clicking on login link
+09:55:01.034 [main] INFO  testCases.TC003_LoginTestDDT - Entering Email
+09:55:01.289 [main] INFO  testCases.TC003_LoginTestDDT - Entering password
+09:55:01.440 [main] INFO  testCases.TC003_LoginTestDDT - clicking login button
+09:55:03.992 [main] INFO  testCases.TC003_LoginTestDDT - Validating MyAccount link
+09:55:14.050 [main] INFO  testCases.TC003_LoginTestDDT - Login unsuccessful on invalid credentials...Test case passed
+09:55:14.050 [main] INFO  testCases.TC003_LoginTestDDT - ***TC002_LoginTest execution completed***
+09:55:14.053 [main] INFO  testCases.TC003_LoginTestDDT - ***Starting TC003_LoginTestDDT***
+09:55:14.053 [main] DEBUG testCases.TC003_LoginTestDDT - Application logs
+09:55:14.053 [main] INFO  testCases.TC003_LoginTestDDT - Clicking on login link
+09:55:15.506 [main] INFO  testCases.TC003_LoginTestDDT - Entering Email
+09:55:15.670 [main] INFO  testCases.TC003_LoginTestDDT - Entering password
+09:55:15.843 [main] INFO  testCases.TC003_LoginTestDDT - clicking login button
+09:55:16.554 [main] INFO  testCases.TC003_LoginTestDDT - Validating MyAccount link
+09:55:26.674 [main] INFO  testCases.TC003_LoginTestDDT - Login unsuccessful on invalid credentials...Test case passed
+09:55:26.674 [main] INFO  testCases.TC003_LoginTestDDT - ***TC002_LoginTest execution completed***
+09:55:26.681 [main] INFO  testCases.TC003_LoginTestDDT - ***Starting TC003_LoginTestDDT***
+09:55:26.681 [main] DEBUG testCases.TC003_LoginTestDDT - Application logs
+09:55:26.682 [main] INFO  testCases.TC003_LoginTestDDT - Clicking on login link
+09:55:28.522 [main] INFO  testCases.TC003_LoginTestDDT - Entering Email
+09:55:28.716 [main] INFO  testCases.TC003_LoginTestDDT - Entering password
+09:55:28.865 [main] INFO  testCases.TC003_LoginTestDDT - clicking login button
+09:55:29.959 [main] INFO  testCases.TC003_LoginTestDDT - Validating MyAccount link
+09:55:40.063 [main] INFO  testCases.TC003_LoginTestDDT - Login unsuccessful on invalid credentials...Test case passed
+09:55:40.064 [main] INFO  testCases.TC003_LoginTestDDT - ***TC002_LoginTest execution completed***

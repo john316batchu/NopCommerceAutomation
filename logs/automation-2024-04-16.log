@@ -1,0 +1,49 @@
+10:50:51.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:50:51.282 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:50:51.314 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:50:51.316 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:50:51.319 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:50:51.355 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:50:51.400 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:50:51.402 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:50:51.404 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:50:51.436 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:50:51.467 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:50:51.468 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:50:51.469 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:50:51.495 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:50:51.550 [main] INFO  testCases.TC003_LoginTestDDT - ***Starting TC003_LoginTestDDT***
+10:50:51.551 [main] DEBUG testCases.TC003_LoginTestDDT - Application logs
+10:50:51.551 [main] INFO  testCases.TC003_LoginTestDDT - Clicking on login link
+10:50:53.465 [main] INFO  testCases.TC003_LoginTestDDT - Entering Email
+10:50:53.667 [main] INFO  testCases.TC003_LoginTestDDT - Entering password
+10:50:53.829 [main] INFO  testCases.TC003_LoginTestDDT - clicking login button
+10:50:56.497 [main] INFO  testCases.TC003_LoginTestDDT - Validating MyAccount link
+10:50:56.620 [main] INFO  testCases.TC003_LoginTestDDT - Login Successful...Test case Passed
+10:50:58.680 [main] INFO  testCases.TC003_LoginTestDDT - ***TC002_LoginTest execution completed***
+10:50:58.685 [main] INFO  testCases.TC003_LoginTestDDT - ***Starting TC003_LoginTestDDT***
+10:50:58.685 [main] DEBUG testCases.TC003_LoginTestDDT - Application logs
+10:50:58.686 [main] INFO  testCases.TC003_LoginTestDDT - Clicking on login link
+10:50:59.352 [main] INFO  testCases.TC003_LoginTestDDT - Entering Email
+10:50:59.503 [main] INFO  testCases.TC003_LoginTestDDT - Entering password
+10:50:59.740 [main] INFO  testCases.TC003_LoginTestDDT - clicking login button
+10:51:00.801 [main] INFO  testCases.TC003_LoginTestDDT - Validating MyAccount link
+10:51:10.876 [main] INFO  testCases.TC003_LoginTestDDT - Login unsuccessful on invalid credentials...Test case passed
+10:51:10.876 [main] INFO  testCases.TC003_LoginTestDDT - ***TC002_LoginTest execution completed***
+10:51:10.889 [main] INFO  testCases.TC003_LoginTestDDT - ***Starting TC003_LoginTestDDT***
+10:51:10.890 [main] DEBUG testCases.TC003_LoginTestDDT - Application logs
+10:51:10.891 [main] INFO  testCases.TC003_LoginTestDDT - Clicking on login link
+10:51:12.600 [main] INFO  testCases.TC003_LoginTestDDT - Entering Email
+10:51:12.763 [main] INFO  testCases.TC003_LoginTestDDT - Entering password
+10:51:12.878 [main] INFO  testCases.TC003_LoginTestDDT - clicking login button
+10:51:13.634 [main] INFO  testCases.TC003_LoginTestDDT - Validating MyAccount link
+10:51:23.860 [main] INFO  testCases.TC003_LoginTestDDT - Login unsuccessful on invalid credentials...Test case passed
+10:51:23.861 [main] INFO  testCases.TC003_LoginTestDDT - ***TC002_LoginTest execution completed***
+10:51:23.876 [main] INFO  testCases.TC003_LoginTestDDT - ***Starting TC003_LoginTestDDT***
+10:51:23.877 [main] DEBUG testCases.TC003_LoginTestDDT - Application logs
+10:51:23.878 [main] INFO  testCases.TC003_LoginTestDDT - Clicking on login link
+10:51:25.497 [main] INFO  testCases.TC003_LoginTestDDT - Entering Email
+10:51:25.827 [main] INFO  testCases.TC003_LoginTestDDT - Entering password
+10:51:25.991 [main] INFO  testCases.TC003_LoginTestDDT - clicking login button
+10:51:26.608 [main] INFO  testCases.TC003_LoginTestDDT - Validating MyAccount link
+10:51:36.687 [main] INFO  testCases.TC003_LoginTestDDT - Login unsuccessful on invalid credentials...Test case passed

@@ -1,0 +1,57 @@
+21:43:31.660 [main] INFO  testCases.TC001_RegistrationTest - Registration is successful...Testcase passed
+21:43:31.738 [main] INFO  testCases.TC001_RegistrationTest - TC001_RegistrationTest execution completed
+21:44:45.041 [main] INFO  testCases.TC001_RegistrationTest - Opening the application
+21:44:48.665 [main] INFO  testCases.TC001_RegistrationTest - ****Starting TC001_RegistrationTest****
+21:44:48.666 [main] DEBUG testCases.TC001_RegistrationTest - Application logs...
+21:44:49.147 [main] INFO  testCases.TC001_RegistrationTest - clicking on register link
+21:44:50.508 [main] INFO  testCases.TC001_RegistrationTest - Entering Registration Details
+21:44:51.306 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register Button
+21:44:52.708 [main] INFO  testCases.TC001_RegistrationTest - Verifying registration status
+21:44:55.382 [main] INFO  testCases.TC001_RegistrationTest - Registration is successful...Testcase passed
+21:44:55.389 [main] INFO  testCases.TC001_RegistrationTest - TC001_RegistrationTest execution completed
+21:45:09.530 [main] INFO  testCases.TC002_LoginTest - Opening the application
+21:45:18.335 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+21:45:18.335 [main] DEBUG testCases.TC002_LoginTest - Application logs
+21:45:18.337 [main] INFO  testCases.TC002_LoginTest - Clicking on login link
+21:45:19.333 [main] INFO  testCases.TC002_LoginTest - Entering Email
+21:45:19.696 [main] INFO  testCases.TC002_LoginTest - Entering password
+21:45:20.096 [main] INFO  testCases.TC002_LoginTest - clicking login button
+21:45:20.944 [main] INFO  testCases.TC002_LoginTest - Validating MyAccount link
+21:45:31.104 [main] ERROR testCases.TC002_LoginTest - Login unsuccessful...Test case failed
+21:48:22.858 [main] INFO  testCases.TC001_RegistrationTest - Opening the application
+21:48:25.040 [main] INFO  testCases.TC001_RegistrationTest - ****Starting TC001_RegistrationTest****
+21:48:25.040 [main] DEBUG testCases.TC001_RegistrationTest - Application logs...
+21:48:25.397 [main] INFO  testCases.TC001_RegistrationTest - clicking on register link
+21:48:27.768 [main] INFO  testCases.TC001_RegistrationTest - Entering Registration Details
+21:48:29.047 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register Button
+21:48:30.762 [main] INFO  testCases.TC001_RegistrationTest - Verifying registration status
+21:48:30.858 [main] INFO  testCases.TC001_RegistrationTest - Registration is successful...Testcase passed
+21:48:30.866 [main] INFO  testCases.TC001_RegistrationTest - TC001_RegistrationTest execution completed
+21:48:45.604 [main] INFO  testCases.TC002_LoginTest - Opening the application
+21:48:52.134 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+21:48:52.134 [main] DEBUG testCases.TC002_LoginTest - Application logs
+21:48:52.135 [main] INFO  testCases.TC002_LoginTest - Clicking on login link
+21:49:00.103 [main] INFO  testCases.TC002_LoginTest - Entering Email
+21:49:00.272 [main] INFO  testCases.TC002_LoginTest - Entering password
+21:49:00.449 [main] INFO  testCases.TC002_LoginTest - clicking login button
+21:49:02.191 [main] INFO  testCases.TC002_LoginTest - Validating MyAccount link
+21:49:02.296 [main] INFO  testCases.TC002_LoginTest - Login Successful...Test case Passed
+21:49:02.296 [main] INFO  testCases.TC002_LoginTest - ***TC002_LoginTest execution completed***
+21:56:23.233 [main] INFO  testCases.TC001_RegistrationTest - Opening the application
+21:56:27.183 [main] INFO  testCases.TC001_RegistrationTest - ****Starting TC001_RegistrationTest****
+21:56:27.183 [main] DEBUG testCases.TC001_RegistrationTest - Application logs...
+21:56:27.217 [main] INFO  testCases.TC001_RegistrationTest - clicking on register link
+21:56:29.279 [main] INFO  testCases.TC001_RegistrationTest - Entering Registration Details
+21:56:30.963 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register Button
+21:56:35.015 [main] INFO  testCases.TC001_RegistrationTest - Verifying registration status
+21:56:35.225 [main] INFO  testCases.TC001_RegistrationTest - Registration is successful...Testcase passed
+21:56:35.234 [main] INFO  testCases.TC001_RegistrationTest - TC001_RegistrationTest execution completed
+21:56:48.975 [main] INFO  testCases.TC002_LoginTest - Opening the application
+22:10:57.392 [main] INFO  testCases.TC001_RegistrationTest - Opening the application
+22:11:00.945 [main] INFO  testCases.TC001_RegistrationTest - ****Starting TC001_RegistrationTest****
+22:11:00.945 [main] DEBUG testCases.TC001_RegistrationTest - Application logs...
+22:11:01.447 [main] INFO  testCases.TC001_RegistrationTest - clicking on register link
+22:11:03.084 [main] INFO  testCases.TC001_RegistrationTest - Entering Registration Details
+22:11:04.167 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register Button
+22:11:06.540 [main] INFO  testCases.TC001_RegistrationTest - Verifying registration status
+22:11:06.677 [main] INFO  testCases.TC001_RegistrationTest - Registration is successful...Testcase passed
